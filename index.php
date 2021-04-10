@@ -9,7 +9,7 @@
       <!-- Carousel Content -->
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="img/carousel/macau3.jpg" alt="macau" class="w-100 bgpics" />
+          <img src="<?php bloginfo('template_directory');?>/img/carousel/macau3.jpg" alt="macau" class="w-100 bgpics" />
 
           <div class="carousel-caption">
             <div class="container">
@@ -30,10 +30,10 @@
           </div>
         </div>
         <div class="carousel-item">
-          <img src="img/carousel/macau2.jpg" alt="" class="w-100" />
+          <img src="<?php bloginfo('template_directory');?>/img/carousel/macau2.jpg" alt="" class="w-100" />
         </div>
         <div class="carousel-item">
-          <img src="img/carousel/macau1.jpg" alt="" class="w-100" />
+          <img src="<?php bloginfo('template_directory');?>/img/carousel/macau1.jpg" alt="" class="w-100" />
         </div>
       </div>
       <!-- End Carousel Content -->
@@ -77,7 +77,7 @@
       <div class="row my-md-5 pt-3">
         <div class="col-md-6 pr-md-3 pt-md-4 container1">
           <a href="membership.html" class="link">
-            <img src="./img/banner1.jpg" alt="join us" class="w-100 p-0 pic"
+            <img src="<?php bloginfo('template_directory');?>/img/banner1.jpg" alt="join us" class="w-100 p-0 pic"
           /></a>
         </div>
 
@@ -105,7 +105,7 @@
             </div>
             <img
               class="card-img-top china_img"
-              src="./img/china43.jpg"
+              src="<?php bloginfo('template_directory');?>/img/china43.jpg"
               alt="Card image cap"
             />
             <div class="card-body">
@@ -124,7 +124,7 @@
             <div class="card-header h3 text-center">Event March 8, 2021</div>
             <img
               class="card-img-top"
-              src="./img/womenDay.jpg"
+              src="<?php bloginfo('template_directory');?>/img/womenDay.jpg"
               alt="Card image cap"
             />
             <div class="card-body">
@@ -143,7 +143,7 @@
             <div class="card-header h3 text-center">BritCham News</div>
             <img
               class="card-img-top"
-              src="./img/Britcham_2020_year_in_review.jpg"
+              src="<?php bloginfo('template_directory');?>/img/Britcham_2020_year_in_review.jpg"
               alt="Card image cap"
             />
             <div class="card-body">
@@ -185,7 +185,7 @@
               >
                 <img
                   height="70px"
-                  src="./img/logo_ocean_gardens.png"
+                  src="<?php bloginfo('template_directory');?>/img/logo_ocean_gardens.png"
                   alt="ocean gardens"
                   class="ml-0 mt-md-4 justify-content-center logos"
               /></a>
@@ -193,7 +193,7 @@
               <a target="_blank" href="https://snipercapital.com/">
                 <img
                   height="70px"
-                  src="./img/sniper_capital_new.JPG"
+                  src="<?php bloginfo('template_directory');?>/img/sniper_capital_new.JPG"
                   alt="sniper capital"
                   class="mt-md-4 mt-4 ml-md-5 justify-content-center text-center logos"
               /></a>
@@ -205,7 +205,7 @@
               <a target="_blank" href="https://www.lordstow.com/">
                 <img
                   height="70px"
-                  src="./img/logo_LordStow2.png"
+                  src="<?php bloginfo('template_directory');?>/img/logo_LordStow2.png"
                   alt="lord_stows"
                   class="mt-md-4 logos"
               /></a>
@@ -220,7 +220,7 @@
                 <a target="_blank" href="https://www.bnu.com.mo/en/">
                   <img
                     height="90px"
-                    src="./img/bnu_logo.png"
+                    src="<?php bloginfo('template_directory');?>/img/bnu_logo.png"
                     alt="bnu"
                     class="pt-3 mx-3 logos"
                 /></a>
@@ -231,7 +231,7 @@
                 >
                   <img
                     height="90px"
-                    src="./img/Ctm_logo_PNG1.png"
+                    src="<?php bloginfo('template_directory');?>/img/Ctm_logo_PNG1.png"
                     alt="ctm"
                     class="pt-3 mx-3 logos"
                 /></a>
@@ -239,7 +239,7 @@
                 <a target="_blank" href="https://www.dsl-lawyers.com/">
                   <img
                     height="90px"
-                    src="./img/dsl-layers.png"
+                    src="<?php bloginfo('template_directory');?>/img/dsl-layers.png"
                     alt="dsl"
                     class="pt-3 mx-3 logos"
                 /></a>
@@ -250,7 +250,7 @@
                 >
                   <img
                     height="110px"
-                    src="./img/logo_sands.png"
+                    src="<?php bloginfo('template_directory');?>/img/logo_sands.png"
                     alt="sands"
                     class="pt-3 mx-3 logos"
                 /></a>
@@ -266,7 +266,7 @@
                 <a target="_blank" href="https://macaudailytimes.com.mo/">
                   <img
                     height="60px"
-                    src="./img/macaotimes.PNG"
+                    src="<?php bloginfo('template_directory');?>/img/macaotimes.PNG"
                     alt="macao times"
                     class="logos"
                 /></a>
